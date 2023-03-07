@@ -27,25 +27,41 @@ This example outlines the lifecycle of a ticket from intake to resolution within
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MdDKWIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Simulated ticket is created by an end-user.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tTxTKsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Help Desk workers are provided a list of currently active tickets.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ceNMWsm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Viewable ticket thread to allow communication between workers and end-user as well as actively show updates to the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6GkbTVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Ticket status page showing what department/individual was assigned the ticket, the topic of the ticket, the severity and the current SLA plan.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZGyrfrA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Closed/resolved ticket list with stored ticket thread to show details of the tickets start to finish lifespan.
 </p>
 <br />
