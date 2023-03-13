@@ -9,7 +9,7 @@ This explanation outlines the lifecycle of a ticket from intake to resolution wi
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Windows 10 Virtual Machine)
+- Microsoft Azure (Windows Virtual Machine)
 - Remote Desktop
 - Internet Information Services (IIS)
 
